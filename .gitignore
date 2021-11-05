@@ -1,0 +1,21 @@
+### VirtualEnv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+.pyc
+VirtualEnv
+kernprof.py
+__pycache__
+.vscode
+__pycache__
+.vscode/settings.json
+VirtualEnv/share/doc/networkx-2.5.1/examples/subclass/README.txt
